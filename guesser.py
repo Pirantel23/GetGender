@@ -1,4 +1,4 @@
-from data import DATA
+from GetGender.data import DATA
 
 
 def get_gender(name: str) -> str:
